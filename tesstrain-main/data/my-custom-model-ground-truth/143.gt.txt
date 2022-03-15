@@ -1,0 +1,1 @@
+(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)

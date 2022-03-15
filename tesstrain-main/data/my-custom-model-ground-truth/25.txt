@@ -1,0 +1,1 @@
+(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 

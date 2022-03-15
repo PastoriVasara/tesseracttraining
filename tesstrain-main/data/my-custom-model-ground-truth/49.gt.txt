@@ -1,0 +1,1 @@
+Regenerate 1% of Life per second if you have Stunned an Enemy Recently

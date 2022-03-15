@@ -1,0 +1,1 @@
+Hits that deal Elemental Damage remove Exposure to those Elements and inflict Exposure to other Elements
